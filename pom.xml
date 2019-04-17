@@ -59,7 +59,7 @@
 				<configuration>
                         <archive>
                             <manifest>
-                                <mainClass>com.example.demo.Assignment2Application</mainClass>
+                                <mainClass>com.csdepartment.Assignment2Application</mainClass>
                             </manifest>
                         </archive>
                     </configuration>
